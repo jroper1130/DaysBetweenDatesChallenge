@@ -1,0 +1,7 @@
+C:\Users\warbe\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll.config
+C:\Users\warbe\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll
+C:\Users\warbe\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.pdb
+C:\Users\warbe\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\warbe\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\warbe\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.dll
+C:\Users\warbe\source\repos\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.pdb
